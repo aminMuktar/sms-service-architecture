@@ -83,19 +83,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Vjc0g-X-Gko_kS8MleXu-25" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="550" width="780" height="500" as="geometry" />
+          <mxGeometry x="-30" y="570" width="780" height="500" as="geometry" />
         </mxCell>
         <mxCell id="Vjc0g-X-Gko_kS8MleXu-4" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="Vjc0g-X-Gko_kS8MleXu-25">
-          <mxGeometry x="640" y="249.99999999999997" width="80" height="67.2" as="geometry" />
+          <mxGeometry x="455" y="360" width="80" height="67.2" as="geometry" />
         </mxCell>
-        <mxCell id="Vjc0g-X-Gko_kS8MleXu-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Vjc0g-X-Gko_kS8MleXu-25" source="Vjc0g-X-Gko_kS8MleXu-24" target="Vjc0g-X-Gko_kS8MleXu-27">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Vjc0g-X-Gko_kS8MleXu-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Vjc0g-X-Gko_kS8MleXu-25">
+          <mxGeometry x="300" y="90" width="320" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="Vjc0g-X-Gko_kS8MleXu-24" value="kannel-worker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Vjc0g-X-Gko_kS8MleXu-25">
-          <mxGeometry x="500" y="90" width="120" height="60" as="geometry" />
+        <mxCell id="Vjc0g-X-Gko_kS8MleXu-32" value="kannel gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Vjc0g-X-Gko_kS8MleXu-25">
+          <mxGeometry x="470" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vjc0g-X-Gko_kS8MleXu-27" value="&lt;div&gt;tele-sms-server&lt;/div&gt;&lt;div&gt;(10.200.200.226)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Vjc0g-X-Gko_kS8MleXu-25">
-          <mxGeometry x="260" y="90" width="120" height="60" as="geometry" />
+        <mxCell id="Vjc0g-X-Gko_kS8MleXu-33" value="kannel worker" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Vjc0g-X-Gko_kS8MleXu-25">
+          <mxGeometry x="470" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vjc0g-X-Gko_kS8MleXu-34" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;196.189.126.215&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="Vjc0g-X-Gko_kS8MleXu-25">
+          <mxGeometry x="430" y="100" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vjc0g-X-Gko_kS8MleXu-35" value="4153" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Vjc0g-X-Gko_kS8MleXu-25">
+          <mxGeometry x="140" y="145" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vjc0g-X-Gko_kS8MleXu-36" value="13131" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Vjc0g-X-Gko_kS8MleXu-25">
+          <mxGeometry x="140" y="225" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vjc0g-X-Gko_kS8MleXu-37" value="3000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Vjc0g-X-Gko_kS8MleXu-25">
+          <mxGeometry x="340" y="161" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vjc0g-X-Gko_kS8MleXu-38" value="13131" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Vjc0g-X-Gko_kS8MleXu-25">
+          <mxGeometry x="340" y="235" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
